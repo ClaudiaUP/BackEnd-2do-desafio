@@ -1,0 +1,1 @@
+[{"titulo":"Heladera","descripcion":"Con freezer no frost","precio":350000,"imagen":"imagen1","codigo":"vcx1","stock":28,"id":1},{"titulo":"Lavarropas","descripcion":"Vertical","precio":250000,"imagen":"imagen2","codigo":"vcx2","stock":40,"id":2},{"titulo":"Cocina","descripcion":"Con 4 hornallas y timer","precio":190000,"imagen":"imagen3","codigo":"vcz8","stock":40,"id":3}]
